@@ -41,6 +41,8 @@ If you want to focus on specific topics (e.g., Loops, Conditions, or File Handli
 
 ⚠️ Note: To avoid compilation errors (since each file contains a main() function), the code in the files within the C/ folder is currently commented out. To practice, simply uncomment the code in the specific file you are working on, run it, and comment it back out when finished.
 
+?? To uncomment, press "ctrl + A" to select all and press "ctrl + /" to uncomment.
+
 
 
 💡 Learning Tips
