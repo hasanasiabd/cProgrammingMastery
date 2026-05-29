@@ -2,12 +2,12 @@
 A comprehensive guide to C programming, featuring structured, topic-wise practice modules and a detailed master guide for learners.
 
 
-C Programming Mastery Course
+>>>____C Programming Mastery Course____
 
 This repository is designed as a comprehensive guide for learning C programming. Whether you are a beginner starting from scratch or looking to explore advanced concepts like File Handling, this repository serves as a structured resource to help you master C.
 
-
-📖 About This Repository
+---
+>*📖 About This Repository*
 
 This repository contains two main learning paths:
 
@@ -15,8 +15,8 @@ main.c: This is the master file containing a comprehensive overview of C program
 
 C/ Folder: This directory contains topic-wise files. Each file focuses on a specific concept, making it easier for learners to practice one step at a time.
 
-
-📂 Folder Structure
+---
+>*📂 Folder Structure*
 
 
 ├── C/                  # Topic-wise practice files
@@ -37,9 +37,8 @@ C/ Folder: This directory contains topic-wise files. Each file focuses on a spec
 
 └── main.c              # Master file with comprehensive C programming guide
 
-
-
-🚀 How to Learn
+---
+>*🚀 How to Learn*
 
 You can choose either of the following methods to study:
 
@@ -49,14 +48,12 @@ If you prefer a step-by-step approach, open the main.c file. Every section is th
 Method 2: Topic-wise Learning (C/ Folder)
 If you want to focus on specific topics (e.g., Loops, Conditions, or File Handling), explore the C/ folder.
 
-
 ⚠️ Note: To avoid compilation errors (since each file contains a main() function), the code in the files within the C/ folder is currently commented out. To practice, simply uncomment the code in the specific file you are working on, run it, and comment it back out when finished.
 
-?? To uncomment, press "ctrl + A" to select all and press "ctrl + /" to uncomment.
+? To uncomment, press "ctrl + A" to select all and press "ctrl + /" to uncomment.
 
-
-
-💡 Learning Tips
+---
+>*💡 Learning Tips*
 
 Read and Understand: Take your time reading the comments in the code. They are designed to act as a mini-tutorial for each block.
 
@@ -64,11 +61,10 @@ Practice: Uncomment the code, compile it on your local machine, and experiment b
 
 Hands-on: The best way to learn programming is by writing it yourself. Do not just read; type out the code!
 
-
-
-🛠️ How to Contribute
+---
+>*🛠️ How to Contribute*
 
 If you would like to help improve this repository, feel free to submit a Pull Request! Whether it is adding new examples, fixing bugs, or improving the explanations, all contributions are welcome.
 
 
-Happy Coding!
+*****Happy Coding!*****
