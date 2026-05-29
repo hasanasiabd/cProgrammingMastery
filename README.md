@@ -33,7 +33,7 @@ C/ Folder: This directory contains topic-wise files. Each file focuses on a spec
 
 ├── README.md
 
-├── cModules.txt        # This file is c course module
+├── cModules.txt        # C course module
 
 └── main.c              # Master file with comprehensive C programming guide
 
