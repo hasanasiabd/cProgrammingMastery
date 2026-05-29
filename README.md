@@ -19,12 +19,16 @@ C/ Folder: This directory contains topic-wise files. Each file focuses on a spec
 📂 Folder Structure
 
 ├── main.c              # Master file with comprehensive C programming guide
+
 ├── C/                  # Topic-wise practice files
 │   ├── 1.firstProgram.c
 │   ├── 2.Syntax.c
 │   ├── 3.Keywords&Identifier.c
 │   └── ... (other files)
-└── README.md
+├── LICENSE
+├── README.md
+├── cModules.txt
+└── main.c              # Master file with comprehensive C programming guide
 
 
 
