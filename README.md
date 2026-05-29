@@ -20,9 +20,9 @@ C/ Folder: This directory contains topic-wise files. Each file focuses on a spec
 
 ```plaintxt
 ├── C/                  # Topic-wise practice files
-│   ├── 1.firstProgram.c
-│   ├── 2.Syntax.c
-│   ├── 3.Keywords&Identifier.c
+│   ├── 001.firstProgram.c
+│   ├── 002.Syntax.c
+│   ├── 003.Keywords&Identifier.c
 │   └── ... (other files)
 ├── LICENSE
 ├── README.md
