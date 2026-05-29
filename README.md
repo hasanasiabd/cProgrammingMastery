@@ -2,7 +2,7 @@
 A comprehensive guide to C programming, featuring structured, topic-wise practice modules and a detailed master guide for learners.
 
 
-______C Programming Mastery Course______
+### ______C Programming Mastery Course______
 
 This repository is designed as a comprehensive guide for learning C programming. Whether you are a beginner starting from scratch or looking to explore advanced concepts like File Handling, this repository serves as a structured resource to help you master C.
 
