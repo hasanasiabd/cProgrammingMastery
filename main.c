@@ -376,7 +376,7 @@ int main(){
                 ... .. ...
             } */
 
-    //greet();             //? Function Call
+    greet();             //? Function Call
 
     printf("\nWelcome to cProgramming!! \nhasanSir!!! \n");
     return 0;
